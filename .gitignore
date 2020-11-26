@@ -95,3 +95,6 @@ tags
 # Ignore the binary
 dmenu
 stest
+
+# Ignore the current config file
+config.h
